@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TIBudgetUploader", "TIBudgetUploader\TIBudgetUploader.vbproj", "{5746835B-5FFF-427C-A46D-59A32CADAD08}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TIBudgetUploader.Setup", "TIBudgetUploader.Setup\TIBudgetUploader.Setup.vdproj", "{4A888E7E-1126-4E5C-B5AC-92745BAD9F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		TIBudgetUploader|x64 = TIBudgetUploader|x64
+		TIBudgetUploader|x86 = TIBudgetUploader|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5746835B-5FFF-427C-A46D-59A32CADAD08}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5746835B-5FFF-427C-A46D-59A32CADAD08}.Debug|x64.Build.0 = Debug|Any CPU
+		{5746835B-5FFF-427C-A46D-59A32CADAD08}.Debug|x86.ActiveCfg = Debug|x86
+		{5746835B-5FFF-427C-A46D-59A32CADAD08}.Debug|x86.Build.0 = Debug|x86
+		{5746835B-5FFF-427C-A46D-59A32CADAD08}.Release|x64.ActiveCfg = Release|x64
+		{5746835B-5FFF-427C-A46D-59A32CADAD08}.Release|x64.Build.0 = Release|x64
+		{5746835B-5FFF-427C-A46D-59A32CADAD08}.Release|x86.ActiveCfg = Release|x86
+		{5746835B-5FFF-427C-A46D-59A32CADAD08}.Release|x86.Build.0 = Release|x86
+		{5746835B-5FFF-427C-A46D-59A32CADAD08}.TIBudgetUploader|x64.ActiveCfg = TIBudgetUploader|x64
+		{5746835B-5FFF-427C-A46D-59A32CADAD08}.TIBudgetUploader|x64.Build.0 = TIBudgetUploader|x64
+		{5746835B-5FFF-427C-A46D-59A32CADAD08}.TIBudgetUploader|x86.ActiveCfg = TIBudgetUploader|x86
+		{5746835B-5FFF-427C-A46D-59A32CADAD08}.TIBudgetUploader|x86.Build.0 = TIBudgetUploader|x86
+		{4A888E7E-1126-4E5C-B5AC-92745BAD9F7D}.Debug|x64.ActiveCfg = Debug
+		{4A888E7E-1126-4E5C-B5AC-92745BAD9F7D}.Debug|x86.ActiveCfg = Debug
+		{4A888E7E-1126-4E5C-B5AC-92745BAD9F7D}.Release|x64.ActiveCfg = Release
+		{4A888E7E-1126-4E5C-B5AC-92745BAD9F7D}.Release|x86.ActiveCfg = Release
+		{4A888E7E-1126-4E5C-B5AC-92745BAD9F7D}.TIBudgetUploader|x64.ActiveCfg = TIBudgetUploader
+		{4A888E7E-1126-4E5C-B5AC-92745BAD9F7D}.TIBudgetUploader|x86.ActiveCfg = TIBudgetUploader
+		{4A888E7E-1126-4E5C-B5AC-92745BAD9F7D}.TIBudgetUploader|x86.Build.0 = TIBudgetUploader
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
